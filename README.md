@@ -13,7 +13,7 @@ udim.me is a project I made for controlling a lamp over BLE with design in mind.
 ### Images
 
 <p float="left">
-    <img src="/src/img/gallery/puck-dark-sm.jpg" width="270" hspace="10" />
-    <img src="/src/img/gallery/puck-box-sm.jpg" width="270" hspace="10" />
-    <img src="/src/img/gallery/pcb-sm.jpg" width="270" hspace="10" />
+    <img src="/img/gallery/puck-dark-sm.jpg" width="270" hspace="10" />
+    <img src="/img/gallery/puck-box-sm.jpg" width="270" hspace="10" />
+    <img src="/img/gallery/pcb-sm.jpg" width="270" hspace="10" />
 </p>
